@@ -1,6 +1,6 @@
 # mohamedamine.83200.github.io
 Mohamed Bouslama, c'est le portfolio de la maison
-# AmeliaPilou.github.io
+
 Portfolio de Mohamed-Amine Bouslama, étudiant en BTS SIO
 # Portfolio de Amélie Pilou
 
